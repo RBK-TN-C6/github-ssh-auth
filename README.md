@@ -15,6 +15,10 @@ During this challenge you will learn how to identify yourself to GitHub using [S
 
 ## Links used
 Please list the link(s) you used to solve this challenge below :
+https://help.interfaceware.com/v6/repository-authentication
+https://devconnected.com/how-to-setup-ssh-keys-on-github/
+https://www.toolsqa.com/git/clone-repository-using-ssh/
+https://www.siteground.com/tutorials/sg-git/clone-git-repository/
 
 
 
