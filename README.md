@@ -16,6 +16,9 @@ During this challenge you will learn how to identify yourself to GitHub using [S
 ## Links used
 Please list the link(s) you used to solve this challenge below :
 
+https://www.youtube.com/watch?v=WgZIv5HI44o
+https://syntaxbytetutorials.com/add-a-github-ssh-key-on-windows/
+and this command to verify if i'm in: ssh -T git@gitlab.com
 
 
 Happy Hacking !
