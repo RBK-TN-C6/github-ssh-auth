@@ -12,9 +12,12 @@ During this challenge you will learn how to identify yourself to GitHub using [S
 4. Push to your account using, you guessed it again :D, using SSH
 5. Create a PR to your branch
 
-
+s
 ## Links used
 Please list the link(s) you used to solve this challenge below :
+https://en.wikipedia.org/wiki/Ssh_(Secure_Shell)
+https://www.keycdn.com/support/create-ssh-key
+https://developer.mozilla.org/en-US/docs/Archive/Using_SSH_to_connect_to_CVS
 
 
 
