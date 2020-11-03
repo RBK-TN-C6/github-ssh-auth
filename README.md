@@ -15,7 +15,10 @@ During this challenge you will learn how to identify yourself to GitHub using [S
 
 ## Links used
 Please list the link(s) you used to solve this challenge below :
-
+https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/connecting-to-github-with-ssh
+https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
+https://stackoverflow.com/questions/14762034/push-to-github-without-a-password-using-ssh-key
+https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
 
 Happy Hacking !
