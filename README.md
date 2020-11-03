@@ -16,6 +16,8 @@ During this challenge you will learn how to identify yourself to GitHub using [S
 ## Links used
 Please list the link(s) you used to solve this challenge below :
 
+https://docs.github.com/en/free-pro-team@latest/github/using-git/adding-a-remote
 
+https://docs.github.com/en/free-pro-team@latest/github/using-git/changing-a-remotes-url#switching-remote-urls-from-https-to-ssh
 
 Happy Hacking !
